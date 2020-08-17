@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    '' => array($vendorDir . '/aw3b/php-classes/src'),
+    'Awtresb\\' => array($vendorDir . '/aw3b/php-classes/src'),
 );

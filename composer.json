@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\aw3b\\php-classes\\src"
+            "Awtresb\\": "vendor\\aw3b\\php-classes\\src"
         }
     }
 }
